@@ -92,3 +92,7 @@ infrastructure as code using Terraform:
 | Provider configuration | Configure Terraform project and AWS provider with valid credentials |
 | Build infrastructure | Set all the components need it to run our use case |
 | Deploy infrastructure | Apply all the configuration and change some ones to play with state and outputs |
+
+> Disclaimer: This workshop is based on the repo from Hadock using [CDKTF From zero to hero](https://github.com/hadock/CDKTF-From-Zero-To-Hero) and is authorized by him. If you are interested in CDKTF I recommend you to visit his workshop.
+
+Happy coding ❤️
